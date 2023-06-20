@@ -5,4 +5,11 @@ I'm Nikhil Makhijani, a cloud consultant from India. I have vast knowledge in cl
 - 💬 Ask me about GCP,Terraform, Cloud Migrations 
 - 📫 How to reach me: Twitter- @nikhilafc
 
-[![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilmakhijani&show_icons=true&theme=transparent))](https://github.com/anuraghazra/github-readme-stats)
+### My Github Stats 📊
+<p align = "center">
+<img src="https://github-readme-stats.vercel.app/api/?username=snikhilmakhijani&count_private=true&theme=tokyonight&showicons=true"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snikhilmakhijani&langs_count=5&theme=tokyonight"><br>
+<img src="https://komarev.com/ghpvc/?username=snikhilmakhijani"><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=snikhilmakhijani">
+</p>
+
