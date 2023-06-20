@@ -2,8 +2,14 @@
 
 I'm Nikhil Makhijani, a cloud consultant from India. I have vast knowledge in cloud infrastructure implementation (Azure and Google cloud), server migrations and automation. I love learning new things and meeting new people! 
 
-- 💬 Ask me about GCP,Terraform, Cloud Migrations 
-- 📫 How to reach me: Twitter- @nikhilafc
+- 💬 Ask me about GCP,Terraform, Cloud Migrations
+
+  
+- :
+### 📫 How to reach me
+
+* [![img](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilmakhijani) 
+* ![twitter-follower](https://img.shields.io/twitter/follow/nikhilafc?style=social)
 
 ### My Github Stats 📊
 <p align = "center">
