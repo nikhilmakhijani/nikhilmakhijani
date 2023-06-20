@@ -14,8 +14,8 @@ A results-driven and skilled Cloud Architect with over 7 years of experience in 
 
 ### 📫 How to reach me
 
-[![img](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilmakhijani)
-![twitter-follower](https://img.shields.io/twitter/follow/nikhilafc?style=social)
+- [![img](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilmakhijani)
+- ![twitter-follower](https://img.shields.io/twitter/follow/nikhilafc?style=social)
 
 
 
