@@ -9,7 +9,7 @@ I'm Nikhil Makhijani, a cloud consultant from India. I have vast knowledge in cl
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api/?username=nikhilmakhijani&count_private=true&theme=tokyonight&showicons=true"><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilmakhijani&langs_count=5&theme=tokyonight"><br>
-<img src="https://komarev.com/ghpvc/?username=snikhilmakhijani"><br>
+<img src="https://komarev.com/ghpvc/?username=nikhilmakhijani"><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=snikhilmakhijani">
 </p>
 
